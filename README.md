@@ -50,7 +50,7 @@ $ npm test
 
 ### Testes
 
-![image](https://github.com/AirtonOliveiraS/ApiTypeScript_WithTests/blob/main/public/image.png)
+![image](https://github.com/AirtonOliveiraS/ApiTypeScript_WithTests/tree/main/public/image.png)
 
 ---
 
